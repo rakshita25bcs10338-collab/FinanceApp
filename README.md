@@ -65,7 +65,6 @@ src/
 | Add Transaction form with validation | ✅ |
 | Budget page with progress bar + warning at 90% | ✅ |
 | Analytics with bar, line & pie charts | ✅ |
-| Context API global state | ✅ |
 | React Router DOM routing | ✅ |
 | React Hook Form + Toastify | ✅ |
 | Recurring transaction badge | ✅ |
